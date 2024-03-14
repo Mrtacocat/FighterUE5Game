@@ -7,5 +7,8 @@
   This project is for learning purpose only
 </p>
 
-![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+<p align='center'>
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+</p>
+
 
